@@ -12,13 +12,9 @@
 
 - 🌱 I’m currently learning **How to write code that doesn’t need fixing 10 minutes later.**
 
-- 👯 I’m looking to collaborate on **Anything that involves code, caffeine, and a little bit of chaos.**
-
 - 🤝 I’m looking for help with **Figuring out why my code works only when I add random console logs.**
 
 - 👨‍💻 All of my projects are available at **Somewhere in my local folders… waiting for the perfect moment to be uploaded. Oh wait, some actually made it to GitHub!**
-
-- 📝 I regularly write articles on **Absolutely nothing. But if thinking about writing counted, I’d be a bestselling author.**
 
 - 💬 Ask me about **Web development, Python, C++, or why semicolons are biggest enemy.**
 
