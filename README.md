@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **Send an email sara.pavansriram@gmail.com or summon me with coffee.**
 
-- 📄 Know about my experiences **Been there, debugged that, cried a little, learned a lot… and somehow survived to tell the tale. Check out my resume here: https://drive.google.com/file/d/1BjngK-GcLkwgJhsbmrYucC_BirGrFXkN/view?usp=sharing**
+- 📄 Know about my experiences **Been there, debugged that, cried a little, learned a lot… and somehow survived to tell the tale. Check out my resume here: [https://drive.google.com/file/d/1BjngK-GcLkwgJhsbmrYucC_BirGrFXkN/view?usp=sharing](https://drive.google.com/file/d/1BjngK-GcLkwgJhsbmrYucC_BirGrFXkN/view?usp=sharing)**
 
 - ⚡ Fun fact **I talk to my code more than I talk to people. It still doesn’t listen.**
 
