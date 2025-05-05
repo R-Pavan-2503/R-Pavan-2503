@@ -8,19 +8,11 @@
 
 
 
-- 🔭 I’m currently working on **A super-secret project that even I don’t fully understand yet.**
 
 - 🌱 I’m currently learning **How to write code that doesn’t need fixing 10 minutes later.**
 
-- 🤝 I’m looking for help with **Figuring out why my code works only when I add random console logs.**
-
-- 👨‍💻 All of my projects are available at **Somewhere in my local folders… waiting for the perfect moment to be uploaded. Oh wait, some actually made it to GitHub!**
-
 - 💬 Ask me about **Web development, Python, C++, or why semicolons are biggest enemy.**
 
-- 📫 How to reach me **Send an email sara.pavansriram@gmail.com or summon me with coffee.**
-
-- 📄 Know about my experiences **Been there, debugged that, cried a little, learned a lot… and somehow survived to tell the tale. Check out my resume here: [https://drive.google.com/file/d/1BjngK-GcLkwgJhsbmrYucC_BirGrFXkN/view?usp=sharing](https://drive.google.com/file/d/1BjngK-GcLkwgJhsbmrYucC_BirGrFXkN/view?usp=sharing)**
 
 - ⚡ Fun fact **I talk to my code more than I talk to people. It still doesn’t listen.**
 
