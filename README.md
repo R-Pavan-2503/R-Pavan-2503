@@ -8,19 +8,11 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="center" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-pavan-2503&label=Profile%20views&color=0e75b6&style=flat" alt="r-pavan-2503" /> </p>
 
 
-
-
--  I’m currently learning **How to write code that doesn’t need fixing 10 minutes later.**
-
--  Ask me about **Web development, Python, C++, or why semicolons are biggest enemy.**
-
-
--  Fun fact **I talk to my code more than I talk to people. It still doesn’t listen.**
 
 
 ## 🌐 Socials:
